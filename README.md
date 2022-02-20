@@ -6,8 +6,8 @@
 
 Діаграма:
 
-!(https://github.com/ppc-ntu-khpi/java-inheritance-ShVlada/blob/master/Turtle%20diagram.PNG)[]
+![](https://github.com/ppc-ntu-khpi/java-inheritance-ShVlada/blob/master/Turtle%20diagram.PNG)
 
 Результат: 
 
-!(https://github.com/ppc-ntu-khpi/java-inheritance-ShVlada/blob/master/Result.PNG)[]
+![](https://github.com/ppc-ntu-khpi/java-inheritance-ShVlada/blob/master/Result.PNG)
